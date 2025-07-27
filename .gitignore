@@ -1,0 +1,12 @@
+# Ignore Eclipse metadata and workspace settings
+.metadata/
+*.log
+*.class
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore compiled Java binaries
+bin/
+out/
