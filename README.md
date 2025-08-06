@@ -9,7 +9,7 @@ This repository contains 3 projects completed as part of my **Java Internship at
 ### 1. 🧮 [Student Grade Calculator](./Student_Grade)  
 A console-based app to calculate average marks and assign grades based on user input.
 
-### 2. 🏫 [Student Management System](./StudentManagementSystem)  
+### 2. 🏫 [Student Management System](./Student_Management_System)  
 A GUI-based student record management app using Java Swing and MySQL. Allows adding, viewing, updating, and deleting student details with a user-friendly interface.
 
 ### 3. 🎮 [Number Guessing Game (GUI)](./NumberGuessingGame)  
