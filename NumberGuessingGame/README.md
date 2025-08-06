@@ -7,6 +7,10 @@ A fun and interactive Java Swing-based game where the player tries to guess a ra
 This project was developed as **Task 3** during the **CodSoft Java Internship – Batch B41 (July 2025)**. It demonstrates use of event-driven programming, UI/UX handling with Swing components, and external theme integration using FlatLaf.
 
 ---
+## 🖼️ UI Preview 
+
+![Game UI](./NumberGuessingGame/src/number1.png)
+---
 
 ## 🚀 Features
 
