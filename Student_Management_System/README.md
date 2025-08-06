@@ -31,17 +31,19 @@ This project was developed as part of **Task 2** for the **CodSoft Java Internsh
 
 ## 📁 Project Structure
 
+```
 StudentManagementSystem/
 ├── src/
-│ ├── Entity/
-│ │ └── Student.java
-│ ├── Main/
-│ │ └── StudentManagementSystem.java
-│ ├── Utilities/
-│ │ ├── DBUtil.java
-│ │ └── HomePage.java
+│   ├── Entity/
+│   │   └── Student.java
+│   ├── Main/
+│   │   └── StudentManagementSystem.java
+│   ├── Utilities/
+│   │   ├── DBUtil.java
+│   │   └── HomePage.java
 ├── .classpath
 ├── .project
+```
 
 ---
 
