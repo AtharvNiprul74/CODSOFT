@@ -9,7 +9,13 @@ This project was developed as **Task 3** during the **CodSoft Java Internship �
 ---
 ## 🖼️ UI Preview 
 
-![Game UI](./NumberGuessingGame/src/number1.png)
+- ### Light Theme 🌞
+![Light Theme](./src/number1.png)
+
+- ### Dark Theme 🌙
+![Dark Theme](./src/number2.png)
+
+
 ---
 
 ## 🚀 Features
