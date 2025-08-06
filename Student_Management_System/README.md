@@ -7,7 +7,11 @@ A Java Swing-based GUI application to manage student records with features like 
 This project was developed as part of **Task 2** for the **CodSoft Java Internship – Batch B41 (July 2025)**. It demonstrates CRUD operations, modular design using packages, and integration with external libraries and databases.
 
 ---
+## UI Preview
 
+- ### Student Management System Dashboard 🖥️
+  ![Dashboard](./src/stud_1.png)
+---
 ## 🚀 Features
 
 - Add, view, update, and delete student records
